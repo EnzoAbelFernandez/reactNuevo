@@ -1,0 +1,27 @@
+.navbar-brand img {
+    width: 2em;
+    height: 2em;
+  }
+  
+  .navbar ul {
+    position: relative;
+    top: 8px;
+  }
+  .navbar ul a {
+    font-family: Montserrat;
+    transition: all 0.3s;
+    color: black;
+    border-bottom: 3px solid rgba(0, 0, 0, 0);
+  }
+  .navbar ul a:hover {
+    border-bottom: 3px solid black;
+  }
+  .navbar ul Link {
+    font-family: Montserrat;
+    transition: all 0.3s;
+    color: black;
+    border-bottom: 3px solid rgba(0, 0, 0, 0);
+  }
+  .navbar ul Link:hover {
+    border-bottom: 3px solid black;
+  }
